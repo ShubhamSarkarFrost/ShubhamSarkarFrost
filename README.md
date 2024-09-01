@@ -1,16 +1,16 @@
-I work as Quality Automation Engineer
-Focused on Test and Process Automation
-Love to share knowledge with peers and learn something new every day.
+# Automation Tester
 
+## Overview
 
-💻 My Tech Stack
-Programming Languages 🚀
-<p align="center">
-  <img src="https://www.flaticon.com/free-icon/js_5968292?term=javascript&page=1&position=3&origin=search&related_id=5968292" width="200" />
-  <img src="https://www.flaticon.com/free-icon/typescript_5968381?term=typescript&page=1&position=1&origin=search&related_id=5968381" width="200" />
-  <img src="https://www.flaticon.com/free-icon/java_226777?term=java&page=1&position=4&origin=search&related_id=226777" width="200" />
-</p>
+I am an experienced Automation Tester with a strong background in creating, maintaining, and executing automated test scripts for various applications. My expertise spans across different testing tools and methodologies, ensuring high-quality software delivery through efficient testing processes.
 
-					
-🤖 My Test Automation Projects
+## Skills
+
+- **Test Automation Tools**: Selenium, TestCafe, Cypress, Robot Framework
+- **Programming Languages**: Python, JavaScript, Java, C#
+- **CI/CD Integration**: Jenkins, GitHub Actions, GitLab CI
+- **Version Control**: Git, GitHub, Bitbucket
+- **Test Reporting**: Allure, Extent Reports, Multiple Cucumber HTML Reporter
+- **Frameworks**: Cucumber, JUnit, TestNG, NUnit
+
 
