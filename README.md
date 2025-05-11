@@ -6,11 +6,11 @@ I am an experienced Automation Tester with a strong background in creating, main
 
 ## Skills
 
-- **Test Automation Tools**: Selenium, TestCafe, Cypress, Robot Framework
+- **Test Automation Tools**: Selenium, playwright, Cypress, webdriverIO, appium, nightwatch, Robot Framework
 - **Programming Languages**: Python, JavaScript, Java, C#
 - **CI/CD Integration**: Jenkins, GitHub Actions, GitLab CI
 - **Version Control**: Git, GitHub, Bitbucket
-- **Test Reporting**: Allure, Extent Reports, Multiple Cucumber HTML Reporter
+- **Test Reporting**: Allure, Extent Reports, mochaawesome report ,  Multiple Cucumber HTML Reporter
 - **Frameworks**: Cucumber, JUnit, TestNG, NUnit
 
 
